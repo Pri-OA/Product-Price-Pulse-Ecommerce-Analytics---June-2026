@@ -207,7 +207,8 @@ Brands and platforms with strong customer engagement and ratings should receive 
 
 ### Brand Analysis
 
-![Brand Analysis](Screenshots/Screenshot 2026-07-09 181459.png)
+![Brand Analysis](https://github.com/Pri-OA/Product-Price-Pulse-Ecommerce-Analytics---June-2026/blob/main/Screenshots/Screenshot%202026-07-09%20181459.png)
+
 
 ## 🚀 Conclusion
 
