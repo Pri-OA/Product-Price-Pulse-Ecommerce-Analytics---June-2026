@@ -193,7 +193,7 @@ Brands and platforms with strong customer engagement and ratings should receive 
 
 ### Executive Overview
 
-![Executive Overview]("C:\Users\MyPC\Desktop\DATA ANALYTICS\Data Portfolio Lab\Visuals\Screenshot 2026-07-09 173719.png")
+![Executive Overview](Screenshots/Screenshot 2026-07-09 173719.png)
 
 ![Executive Overview]("C:\Users\MyPC\Desktop\DATA ANALYTICS\Data Portfolio Lab\Visuals\Screenshot 2026-07-09 181122.png")
 
