@@ -195,19 +195,19 @@ Brands and platforms with strong customer engagement and ratings should receive 
 
 ![Executive Overview](Screenshots/Screenshot 2026-07-09 173719.png)
 
-![Executive Overview]("C:\Users\MyPC\Desktop\DATA ANALYTICS\Data Portfolio Lab\Visuals\Screenshot 2026-07-09 181122.png")
+![Executive Overview](Screenshots/Screenshot 2026-07-09 181122.png)
 
 ### Pricing Analysis
 
-![Pricing Analysis]("C:\Users\MyPC\Desktop\DATA ANALYTICS\Data Portfolio Lab\Visuals\Screenshot 2026-07-09 181421.png")
+![Pricing Analysis](Screenshots/Screenshot 2026-07-09 181421.png)
 
 ### Discount Analysis
 
-![Discount Analysis]("C:\Users\MyPC\Desktop\DATA ANALYTICS\Data Portfolio Lab\Visuals\Screenshot 2026-07-09 181440.png")
+![Discount Analysis](Screenshots/Screenshot 2026-07-09 181440.png)
 
 ### Brand Analysis
 
-![Brand Analysis]("C:\Users\MyPC\Desktop\DATA ANALYTICS\Data Portfolio Lab\Visuals\Screenshot 2026-07-09 181459.png")
+![Brand Analysis](Screenshots/Screenshot 2026-07-09 181459.png)
 
 ## 🚀 Conclusion
 
